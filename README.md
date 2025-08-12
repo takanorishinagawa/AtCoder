@@ -7,3 +7,13 @@
 ## Reference
 
 [AtCoder](https://atcoder.jp)
+
+AtCoder の公式サイト\
+コンテストの参加や過去問の閲覧ができます。
+
+---
+
+[AtCoderInfo](https://info.atcoder.jp)
+
+AtCoder への参加方法や取り組み方、採用担当者の方への情報など、\
+AtCoder に関する様々な情報が閲覧できます。
